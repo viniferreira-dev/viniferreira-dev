@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn&logoColor=F7931E)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 I'm Vinicios, a Data Science student at UFABC who enjoys mathematics and problem-solving.  
